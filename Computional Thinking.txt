@@ -1,0 +1,28 @@
+pada era 4.0 ini kita harus menjadi pencipta, bukan pengguna sebuah apikasi. Jangan sampai justru hanya menjadi penguna yang tidak bisa meng-create sesuatu.
+
+Apa itu computional thinking??
+1980, diperbaharui 2006.
+adalah proses berpikir yang menlibatkan bagaimana memformulasikan PERSOALAN(problem) dan SOLUSI.
+sehingga solusi dapat direpresentasikan(eksekusi) sekcara efektif dapat dikerjakan oleh information processing agent.
+
+1. Decomposition (fungsi anatomi)
+(memilah menjadi bagian yang bisa dipecahkan sendiri sendiri adan berfungsi sendiri sendiri.)
+
+2. Abstraction
+=> fokus kebagian yang penting. 
+
+3. Algorithm
+=> harus punya planning uang jelas, programnya mau ngapain. (input, output, assigment, if, loop).
+ 
+4. Pattern Recognition
+apabila kita mempunyai sebuah algoritma maka sebaiknya kita simpan, sehingga apabila ada sebuah masalah yang serupa maka kita bisa mengerjakan sesuatu lebih cepat, jadinya tidak mengerjakan dari awal.  
+
+Harus tau representasi data akan kemana masuknya.
+
+Dalam membuat sebuah solusi kita harus memiliki beberapa solusi, harus lebih dari satu. Karena yang namanya sebuah program itu bisa diselesaikan dengan banyak cara.
+
+
+CARA BELAJAR COMPUTIONAL THINKING
+
+
+
